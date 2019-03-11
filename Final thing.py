@@ -5,10 +5,11 @@ print('what to do.....')#add message to inspire
 
 
 
+i=int(input("how many wrestlers are you asking for: "))
 
 
+for i in range(i):
+    name =input('What is your name?:')
+    weight= input('How much do you weight?:')
 
 
-
-name =input(print('What is your name?:'))
-weight= input(print('How much do you weight?:'))
